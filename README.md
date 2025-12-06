@@ -29,7 +29,7 @@ const developer = {
   nickname: "Tonly",
   location: "Bảo An, Khánh Hòa, Việt Nam 🇻🇳",
   currentFocus: ["Web Development", "Python Automation"],
-  funFact: "I turn ☕ into code",
+  funFact: "I turn code into my games",
 
   sayHi() {
     console.log("Thanks for visiting my profile! Let's connect! 🤝");
