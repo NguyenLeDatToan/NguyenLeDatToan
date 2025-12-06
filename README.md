@@ -43,7 +43,7 @@ me.say_hi()
 
 <table>
 <tr>
-<td valign="middle" width="50%" align="center">
+<td valign="middle" width="66%" align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -59,7 +59,7 @@ me.say_hi()
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenLeDatToan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </td>
-<td valign="middle" width="50%" align="center">
+<td valign="middle" width="34%" align="center">
 
 <img height="220" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev Quote" />
 
