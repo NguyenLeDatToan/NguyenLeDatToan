@@ -23,17 +23,21 @@
 </td>
 <td valign="top" width="50%">
 
-**🌸 Nguyễn Lê Đạt Toàn**
+```javascript
+const developer = {
+  name: "Nguyễn Lê Đạt Toàn",
+  nickname: "Tonly",
+  location: "Bảo An, Khánh Hòa, Việt Nam 🇻🇳",
+  currentFocus: ["Web Development", "Python Automation"],
+  funFact: "I turn code into my games",
 
-> 💖 Nickname: **Tonly**
->
-> 📍 Bảo An, Khánh Hòa, Việt Nam 🇻🇳
->
-> 🎯 Web Development | Python Automation
->
-> 🎮 I turn code into my games
->
-> 🤝 Thanks for visiting my profile!
+  sayHi() {
+    console.log("Thanks for visiting my profile! Let's connect! 🤝");
+  },
+};
+
+developer.sayHi();
+```
 
 </td>
 </tr>
@@ -43,17 +47,17 @@
 <tr>
 <td valign="middle" width="66%" align="center">
 
-![Python](https://img.shields.io/badge/Python-FF1493?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF1493?style=flat-square&logo=javascript&logoColor=white)
-![AutoIt](https://img.shields.io/badge/AutoIt-FF1493?style=flat-square&logo=autoit&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FF1493?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FF1493?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-FF1493?style=flat-square&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-FF1493?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-FF1493?style=flat-square&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF1493?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-FF1493?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-FF1493?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF1493?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white)
+![AutoIt](https://img.shields.io/badge/AutoIt-FF1493?style=for-the-badge&logo=autoit&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FF1493?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-FF1493?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-FF69B4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF1493?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-FF1493?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenLeDatToan&theme=radical&hide_border=true&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4" alt="GitHub Streak" />
 
