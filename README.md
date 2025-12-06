@@ -10,6 +10,19 @@
 
 ---
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
+## 📌 Pinned Projects
+
+[![HTMLLiveWallpaper](https://github-readme-stats.vercel.app/api/pin/?username=NguyenLeDatToan&repo=HTMLLiveWallpaper&theme=tokyonight)](https://github.com/NguyenLeDatToan/HTMLLiveWallpaper)
+
+[![React-Vite-Knowledge-Base](https://github-readme-stats.vercel.app/api/pin/?username=NguyenLeDatToan&repo=React-Vite-Knowledge-Base&theme=tokyonight)](https://github.com/NguyenLeDatToan/React-Vite-Knowledge-Base)
+
+</td>
+<td valign="top" width="50%">
+
 ## 🚀 Về tôi
 
 ```python
@@ -27,6 +40,10 @@ class Developer:
 me = Developer()
 me.say_hi()
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -66,17 +83,6 @@ me.say_hi()
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenLeDatToan&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-## 📌 Pinned Projects
-
-<div align="center">
-
-[![HTMLLiveWallpaper](https://github-readme-stats.vercel.app/api/pin/?username=NguyenLeDatToan&repo=HTMLLiveWallpaper&theme=tokyonight)](https://github.com/NguyenLeDatToan/HTMLLiveWallpaper)
-[![React-Vite-Knowledge-Base](https://github-readme-stats.vercel.app/api/pin/?username=NguyenLeDatToan&repo=React-Vite-Knowledge-Base&theme=tokyonight)](https://github.com/NguyenLeDatToan/React-Vite-Knowledge-Base)
-
 </div>
 
 ---
