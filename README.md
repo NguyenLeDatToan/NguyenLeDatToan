@@ -59,16 +59,21 @@ me.say_hi()
 </td>
 <td valign="top" width="70%">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=NguyenLeDatToan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenLeDatToan&layout=compact&langs_count=6&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenLeDatToan&theme=tokyonight" alt="GitHub Streak" />
+<a href="https://github.com/NguyenLeDatToan">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NguyenLeDatToan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+</a>
+<a href="https://github.com/NguyenLeDatToan">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenLeDatToan&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+</a>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenLeDatToan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenLeDatToan&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenLeDatToan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 <div align="center">
