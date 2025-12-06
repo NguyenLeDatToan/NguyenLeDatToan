@@ -12,9 +12,13 @@
 
 ## 📌 Pinned Projects
 
-[![HTMLLiveWallpaper](https://github-readme-stats.vercel.app/api/pin/?username=NguyenLeDatToan&repo=HTMLLiveWallpaper&theme=tokyonight)](https://github.com/NguyenLeDatToan/HTMLLiveWallpaper)
+🐍 **[HTMLLiveWallpaper](https://github.com/NguyenLeDatToan/HTMLLiveWallpaper)**
 
-[![React-Vite-Knowledge-Base](https://github-readme-stats.vercel.app/api/pin/?username=NguyenLeDatToan&repo=React-Vite-Knowledge-Base&theme=tokyonight)](https://github.com/NguyenLeDatToan/React-Vite-Knowledge-Base)
+> HTML Live Wallpaper - Python
+
+⚛️ **[React-Vite-Knowledge-Base](https://github.com/NguyenLeDatToan/React-Vite-Knowledge-Base)**
+
+> Knowledge about React + Vite - JavaScript
 
 </td>
 <td valign="top" width="50%">
