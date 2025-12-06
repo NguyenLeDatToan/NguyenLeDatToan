@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Tonly+-+To%C3%A0n+Nguy%E1%BB%85n" alt="Tonly - Toàn Nguyễn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FF1493&height=120&section=header&text=Tonly%20-%20To%C3%A0n%20Nguy%E1%BB%85n&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30" width="100%" />
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+%7C+JavaScript+Enthusiast;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=%F0%9F%8C%B8+Full+Stack+Developer;%F0%9F%92%96+Python+%7C+JavaScript+Enthusiast;%E2%9C%A8+Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 </div>
@@ -12,11 +12,11 @@
 <tr>
 <td valign="top" width="50%">
 
-🐍 **[HTMLLiveWallpaper](https://github.com/NguyenLeDatToan/HTMLLiveWallpaper)**
+🌸 **[HTMLLiveWallpaper](https://github.com/NguyenLeDatToan/HTMLLiveWallpaper)**
 
 > HTML Live Wallpaper - Python
 
-⚛️ **[React-Vite-Knowledge-Base](https://github.com/NguyenLeDatToan/React-Vite-Knowledge-Base)**
+💖 **[React-Vite-Knowledge-Base](https://github.com/NguyenLeDatToan/React-Vite-Knowledge-Base)**
 
 > Knowledge about React + Vite - JavaScript
 
@@ -59,20 +59,20 @@ developer.sayHi();
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenLeDatToan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenLeDatToan&theme=radical&hide_border=true&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4" alt="GitHub Streak" />
 
 </td>
 <td valign="middle" width="34%" align="center">
 
-<img height="220" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev Quote" />
+<img height="220" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Dev Quote" />
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenLeDatToan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenLeDatToan&theme=radical&hide_border=true&area=true&line=FF69B4&point=FF1493&area_color=FF69B480" alt="Contribution Graph" />
 </div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
 </div>
