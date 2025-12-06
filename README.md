@@ -23,20 +23,20 @@
 </td>
 <td valign="top" width="50%">
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Nguyễn Lê Đạt Toàn"
-        self.nickname = "Tonly"
-        self.location = "Bảo An, Khánh Hòa, Việt Nam 🇻🇳"
-        self.current_focus = ["Web Development", "Python Automation"]
-        self.fun_fact = "I turn ☕ into code"
+```javascript
+const developer = {
+  name: "Nguyễn Lê Đạt Toàn",
+  nickname: "Tonly",
+  location: "Bảo An, Khánh Hòa, Việt Nam 🇻🇳",
+  currentFocus: ["Web Development", "Python Automation"],
+  funFact: "I turn ☕ into code",
 
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's connect! 🤝")
+  sayHi() {
+    console.log("Thanks for visiting my profile! Let's connect! 🤝");
+  },
+};
 
-me = Developer()
-me.say_hi()
+developer.sayHi();
 ```
 
 </td>
