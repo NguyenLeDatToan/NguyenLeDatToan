@@ -57,9 +57,14 @@ me.say_hi()
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </td>
-<td valign="top" width="70%">
+<td valign="top" width="40%">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenLeDatToan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</td>
+<td valign="top" width="30%">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev Quote" />
 
 </td>
 </tr>
@@ -67,10 +72,6 @@ me.say_hi()
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenLeDatToan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
