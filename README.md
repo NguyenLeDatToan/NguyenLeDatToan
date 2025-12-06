@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FF1493&height=120&section=header&text=Tonly%20-%20To%C3%A0n%20Nguy%E1%BB%85n&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:FF4500&height=120&section=header&text=Tonly%20-%20To%C3%A0n%20Nguy%E1%BB%85n&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30" width="100%" />
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=%F0%9F%8C%B8+Full+Stack+Developer;%F0%9F%92%96+Python+%7C+JavaScript+Enthusiast;%E2%9C%A8+Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF8C00&center=true&vCenter=true&width=435&lines=%F0%9F%94%A5+Full+Stack+Developer;%F0%9F%8D%8A+Python+%7C+JavaScript+Enthusiast;%E2%9C%A8+Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 </div>
@@ -12,11 +12,11 @@
 <tr>
 <td valign="top" width="50%">
 
-🌸 **[HTMLLiveWallpaper](https://github.com/NguyenLeDatToan/HTMLLiveWallpaper)**
+🔥 **[HTMLLiveWallpaper](https://github.com/NguyenLeDatToan/HTMLLiveWallpaper)**
 
 > HTML Live Wallpaper - Python
 
-💖 **[React-Vite-Knowledge-Base](https://github.com/NguyenLeDatToan/React-Vite-Knowledge-Base)**
+🍊 **[React-Vite-Knowledge-Base](https://github.com/NguyenLeDatToan/React-Vite-Knowledge-Base)**
 
 > Knowledge about React + Vite - JavaScript
 
@@ -47,32 +47,32 @@ developer.sayHi();
 <tr>
 <td valign="middle" width="66%" align="center">
 
-![Python](https://img.shields.io/badge/Python-FF1493?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white)
-![AutoIt](https://img.shields.io/badge/AutoIt-FF1493?style=for-the-badge&logo=autoit&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FF1493?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-FF1493?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-FF69B4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF1493?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-FF1493?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF4500?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF4500?style=flat-square&logo=javascript&logoColor=white)
+![AutoIt](https://img.shields.io/badge/AutoIt-FF4500?style=flat-square&logo=autoit&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF4500?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FF4500?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-FF4500?style=flat-square&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-FF4500?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-FF4500?style=flat-square&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF4500?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FF4500?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-FF4500?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenLeDatToan&theme=radical&hide_border=true&ring=FF69B4&fire=FF1493&currStreakLabel=FF69B4" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenLeDatToan&theme=dark&hide_border=true&ring=FF8C00&fire=FF4500&currStreakLabel=FF8C00&sideLabels=FF8C00&dates=FFFFFF" alt="GitHub Streak" />
 
 </td>
 <td valign="middle" width="34%" align="center">
 
-<img height="220" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Dev Quote" />
+<img height="220" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Dev Quote" />
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenLeDatToan&theme=radical&hide_border=true&area=true&line=FF69B4&point=FF1493&area_color=FF69B480" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenLeDatToan&bg_color=0d1117&color=FF8C00&line=FF4500&point=FF8C00&area=true&area_color=FF450080&hide_border=true" alt="Contribution Graph" />
 </div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,100:FF8C00&height=100&section=footer"/>
 </div>
