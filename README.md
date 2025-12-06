@@ -66,13 +66,11 @@ me.say_hi()
 </table>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenLeDatToan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenLeDatToan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 <div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+  <img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
 <div align="center">
