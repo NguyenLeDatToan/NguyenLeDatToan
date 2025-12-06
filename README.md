@@ -4,11 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+%7C+JavaScript+Enthusiast;Always+Learning+New+Things+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=NguyenLeDatToan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-
 </div>
-
----
 
 <table>
 <tr>
