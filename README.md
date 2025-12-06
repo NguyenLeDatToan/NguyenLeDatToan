@@ -41,8 +41,6 @@ me.say_hi()
 </tr>
 </table>
 
----
-
 <table>
 <tr>
 <td valign="top" width="30%">
@@ -69,21 +67,15 @@ me.say_hi()
 </tr>
 </table>
 
----
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenLeDatToan&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
-
----
 
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
