@@ -61,7 +61,7 @@ me.say_hi()
 </td>
 <td valign="middle" width="50%" align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev Quote" />
+<img height="220" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev Quote" />
 
 </td>
 </tr>
