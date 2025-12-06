@@ -12,13 +12,13 @@
 <tr>
 <td valign="top" width="50%">
 
-🔥 **[HTMLLiveWallpaper](https://github.com/NguyenLeDatToan/HTMLLiveWallpaper)**
+<a href="https://github.com/NguyenLeDatToan/HTMLLiveWallpaper">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenLeDatToan&repo=HTMLLiveWallpaper&bg_color=0d1117&title_color=FF8C00&icon_color=FF4500&text_color=ffffff&border_color=FF4500" />
+</a>
 
-> HTML Live Wallpaper - Python
-
-🍊 **[React-Vite-Knowledge-Base](https://github.com/NguyenLeDatToan/React-Vite-Knowledge-Base)**
-
-> Knowledge about React + Vite - JavaScript
+<a href="https://github.com/NguyenLeDatToan/React-Vite-Knowledge-Base">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenLeDatToan&repo=React-Vite-Knowledge-Base&bg_color=0d1117&title_color=FF8C00&icon_color=FF4500&text_color=ffffff&border_color=FF4500" />
+</a>
 
 </td>
 <td valign="top" width="50%">
