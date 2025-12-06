@@ -10,8 +10,6 @@
 <tr>
 <td valign="top" width="50%">
 
-## 📌 Pinned Projects
-
 🐍 **[HTMLLiveWallpaper](https://github.com/NguyenLeDatToan/HTMLLiveWallpaper)**
 
 > HTML Live Wallpaper - Python
@@ -22,8 +20,6 @@
 
 </td>
 <td valign="top" width="50%">
-
-## 🚀 Về tôi
 
 ```python
 class Developer:
@@ -46,8 +42,6 @@ me.say_hi()
 </table>
 
 ---
-
-## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -74,8 +68,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NguyenLeDatToan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenLeDatToan&layout=compact&langs_count=8&theme=tokyonight"/>
@@ -87,23 +79,17 @@ me.say_hi()
 
 ---
 
-## 📈 Contribution Graph
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenLeDatToan&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/NguyenLeDatToan/NguyenLeDatToan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
-
-## 🤝 Kết nối với tôi
 
 <div align="center">
 
@@ -116,8 +102,6 @@ me.say_hi()
 ---
 
 <div align="center">
-
-### 💬 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
