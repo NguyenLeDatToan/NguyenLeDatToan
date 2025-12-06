@@ -23,21 +23,17 @@
 </td>
 <td valign="top" width="50%">
 
-```javascript
-const developer = {
-  name: "Nguyễn Lê Đạt Toàn",
-  nickname: "Tonly",
-  location: "Bảo An, Khánh Hòa, Việt Nam 🇻🇳",
-  currentFocus: ["Web Development", "Python Automation"],
-  funFact: "I turn code into my games",
+**🌸 Nguyễn Lê Đạt Toàn**
 
-  sayHi() {
-    console.log("Thanks for visiting my profile! Let's connect! 🤝");
-  },
-};
-
-developer.sayHi();
-```
+> 💖 Nickname: **Tonly**
+>
+> 📍 Bảo An, Khánh Hòa, Việt Nam 🇻🇳
+>
+> 🎯 Web Development | Python Automation
+>
+> 🎮 I turn code into my games
+>
+> 🤝 Thanks for visiting my profile!
 
 </td>
 </tr>
