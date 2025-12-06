@@ -78,12 +78,6 @@ me.say_hi()
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NguyenLeDatToan/NguyenLeDatToan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NguyenLeDatToan)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
