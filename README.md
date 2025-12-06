@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Tonly+-+To%C3%A0n+Nguy%E1%BB%85n" alt="Tonly - Toàn Nguyễn" />
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Tonly+-+To%C3%A0n+Nguy%E1%BB%85n" alt="Tonly - Toàn Nguyễn" />
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+%7C+JavaScript+Enthusiast;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
