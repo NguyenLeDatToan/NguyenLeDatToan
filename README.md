@@ -14,7 +14,7 @@
 
 **[WebLocal_HorizontalScaling](https://github.com/NguyenLeDatToan/WebLocal_HorizontalScaling)**
 
-> Horizontal scaling 📈 Runs on one or multiple machines 🖥️ Does not use Docker 🚫
+> Horizontal scaling - Runs on one or multiple machines
 
 🍊 **[React-Vite-Knowledge-Base](https://github.com/NguyenLeDatToan/React-Vite-Knowledge-Base)**
 
