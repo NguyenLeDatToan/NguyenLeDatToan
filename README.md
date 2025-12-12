@@ -12,13 +12,17 @@
 <tr>
 <td valign="top" width="50%">
 
-🔥 **[HTMLLiveWallpaper](https://github.com/NguyenLeDatToan/HTMLLiveWallpaper)**
+**[WebLocal_HorizontalScaling](https://github.com/NguyenLeDatToan/WebLocal_HorizontalScaling)**
 
-> HTML Live Wallpaper - Python
+> Horizontal scaling 📈 Runs on one or multiple machines 🖥️ Does not use Docker 🚫
 
 🍊 **[React-Vite-Knowledge-Base](https://github.com/NguyenLeDatToan/React-Vite-Knowledge-Base)**
 
 > Knowledge about React + Vite - JavaScript
+
+🔥 **[HTMLLiveWallpaper](https://github.com/NguyenLeDatToan/HTMLLiveWallpaper)**
+
+> HTML Live Wallpaper - Python
 
 </td>
 <td valign="top" width="50%">
