@@ -12,7 +12,7 @@
 <tr>
 <td valign="top" width="50%">
 
-**[WebLocal_HorizontalScaling](https://github.com/NguyenLeDatToan/WebLocal_HorizontalScaling)**
+🌟 **[WebLocal_HorizontalScaling](https://github.com/NguyenLeDatToan/WebLocal_HorizontalScaling)**
 
 > Horizontal scaling - Runs on one or multiple machines
 
